@@ -1,2 +1,2 @@
 # effective-doodle
-test repository
+test repository written in Javascript
